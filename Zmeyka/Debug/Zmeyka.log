@@ -1,0 +1,10 @@
+﻿  Game.cpp
+c:\users\mumzik\source\repos\zmeyka\zmeyka\game.cpp(49): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\mumzik\source\repos\zmeyka\zmeyka\game.cpp(62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\mumzik\source\repos\zmeyka\zmeyka\game.cpp(79): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\mumzik\source\repos\zmeyka\zmeyka\game.cpp(111): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Zmeyka.vcxproj -> C:\Users\mumzik\source\repos\Zmeyka\Debug\Zmeyka.exe
